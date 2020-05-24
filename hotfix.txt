@@ -1,3 +1,0 @@
-This hotfix file was added into hotfix branch.
-Later this hotfix will be deleted.
-24.05.2020

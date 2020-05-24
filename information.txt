@@ -1,3 +1,0 @@
-This is only test. Nothing special.
-Later I will delete this. 
-The project does not need this file.
